@@ -1,0 +1,28 @@
+﻿.style {
+	align-self: center;
+	justify-content: center;
+	align-items: center;
+}
+
+.style:hover img {
+	opacity: 0.5;
+}
+
+.style:hover .edit {
+	display: block;
+}
+
+.edit {
+	position: absolute;
+	right: 230px;
+	top: 150px;
+	display: none;
+}
+
+.error {
+	color: red;
+}
+
+input {
+	display: none
+}

@@ -1,0 +1,22 @@
+﻿.img-wrap {
+    position: relative;
+    float: left;
+}
+
+ .img-wrap #clear {
+        position: absolute;
+        top: 2px;
+        right: 2px;
+        z-index: 110;
+    }
+
+.hide {
+    display: none;
+}
+
+#pageHead {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 10px;
+    margin-bottom:20px;
+}

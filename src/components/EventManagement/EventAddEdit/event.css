@@ -1,0 +1,20 @@
+﻿.img-wrap {
+    position: relative;
+    float: left;
+}
+
+ .img-wrap #clear {
+        position: absolute;
+        top: 2px;
+        right: 2px;
+        z-index: 100;
+    }
+
+.hide {
+    display: none;
+}
+
+#eventAddpageHeading {
+    padding-left: 1px;
+    margin-bottom: 20px;
+}

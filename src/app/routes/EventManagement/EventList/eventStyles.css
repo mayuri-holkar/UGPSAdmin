@@ -1,0 +1,68 @@
+﻿#EventFieldName, d1 {
+    width: 140px;
+    height: 25px;
+    padding-right: 5px;
+    padding-left: 1px;
+    padding-bottom: 24px;
+    border: 0px solid black;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+#EventsearchName {
+    width: 350px;
+    height: 30px;
+    margin-right: 0px;
+    padding-left: 5px;
+}
+
+.tbl_memberList {
+    width: 100%;
+}
+
+#EventpageHeading {
+    padding-left: 1px;
+    margin-bottom: 0px;
+}
+
+#action {
+    width: 10px;
+}
+
+#tblData {
+    padding-left: 8px;
+}
+
+#EventtableCell {
+    color: darkblue;
+    background-color: #FFF5EE;
+    width: 230px;
+    height: auto;
+}
+
+#EventtableCell1 {
+    color: darkblue;
+    width: 30px;
+    padding-left: 8px;
+    background-color: #FFF5EE;
+}
+
+#img{
+    width:215px;
+    height:215px;
+}
+
+#delete{
+    margin-bottom:40px;
+    margin-left:8px;
+}
+
+#Eventsearch {
+    width: 40px;
+    height: 30px;
+}
+
+#Eventcancel {
+    width: 40px;
+    height: 30px;
+}

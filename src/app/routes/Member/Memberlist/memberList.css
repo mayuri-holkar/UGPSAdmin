@@ -1,0 +1,67 @@
+﻿#FieldName, d1 {
+    width: 140px;
+    height: 25px;
+    padding-right: 5px;
+    padding-left: 1px;
+    padding-bottom: 24px;
+    border: 0px solid black;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+#searchName {
+    width: 350px;
+    height: 30px;
+    margin-right: 0px;
+    padding-left: 5px;
+}
+
+#search {
+    width:40px;
+    height: 30px;
+}
+
+#cancel {
+    width:40px;
+    height: 30px;
+}
+
+.tbl_memberList {
+    width: 100%;
+    padding: 0px;
+}
+
+#pageHeading {
+    padding-left: 1px;
+    margin-bottom: 0px;
+}
+
+#action {
+    width: 2px;
+}
+
+#tblData {
+    padding-left: 8px;
+}
+
+#tableCell {
+    color: black;
+}
+
+#tableCell1 {
+    color: darkblue;
+    width: 100px;
+    padding-left: 8px;
+}
+
+#names {
+    color: black;
+}
+#names1 {
+    width: 100px;
+    color: black;
+}
+
+#editicon{
+    margin-right:25px;
+}

@@ -1,0 +1,56 @@
+﻿#FieldName, d1 {
+    width: 120px;
+    height: 25px;
+    padding-right: 5px;
+    padding-left: 1px;
+    padding-bottom: 24px;
+    border: 0px solid black;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+#searchName {
+    width: 200px;
+    height: 30px;
+    margin-right: 0px;
+    padding-left: 5px;
+}
+
+#search {
+    height: 30px;
+}
+
+#cancel {
+    height: 30px;
+}
+
+.tbl_memberList {
+    width: 100%;
+    padding: 0px;
+}
+
+#pageHeading {
+    padding-left: 1px;
+}
+
+#action {
+    width: 2px;
+}
+
+#tblData {
+    padding-left: 8px;
+}
+
+#tableCell {
+    color: black;
+    width: 230px;
+    padding-left: 8px;
+    background-color: #FFF5EE;
+}
+
+#tableCell1 {
+    color: black;
+    width: 30px;
+    padding-left: 8px;
+    background-color: #FFF5EE;
+}
